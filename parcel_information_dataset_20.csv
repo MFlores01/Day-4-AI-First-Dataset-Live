@@ -1,0 +1,21 @@
+Parcel ID,Sender Name,Recipient Name,Sender Address,Recipient Address,Dispatch Date,Estimated Delivery Date,Delivery Status,Weight (kg),Dimensions (LxWxH) cm,Shipping Cost,Delivery Type,Delivery Agent,Tracking Number,Special Instructions,Return Status
+P0001,Alice White,Jane Smith,123 Main St,999 Chestnut Ave,2024-11-05,2024-11-09,Delivered,9.5,29x30x22,$18.32,Standard,Agent B,TRK390165025,Leave at front door,Returned
+P0002,John Doe,Bob Brown,777 Willow Rd,102 Birch Dr,2024-11-09,2024-11-15,Returned,5.5,49x30x27,$12.43,Standard,Agent C,TRK437386713,Handle with care,Returned
+P0003,Lucy Blue,Jane Smith,777 Willow Rd,999 Chestnut Ave,2024-11-01,2024-11-08,Pending,2.4,27x36x28,$12.12,Express,Agent D,TRK642943441,N/A,Not Returned
+P0004,Lucy Blue,Jane Smith,555 Maple Ln,456 Elm St,2024-11-03,2024-11-10,In Transit,3.9,47x15x18,$6.12,Standard,Agent E,TRK698126302,Do not bend,Returned
+P0005,John Doe,Chris White,123 Main St,102 Birch Dr,2024-11-03,2024-11-12,In Transit,4.7,24x33x22,$8.78,Standard,Agent A,TRK185921582,Leave at front door,Not Returned
+P0006,John Doe,Mike Green,777 Willow Rd,321 Oak Ave,2024-11-03,2024-11-09,Pending,5.3,48x37x29,$15.66,Standard,Agent C,TRK953880282,Leave at front door,Returned
+P0007,Nancy Red,Chris White,555 Maple Ln,999 Chestnut Ave,2024-11-09,2024-11-15,Returned,8.2,46x15x18,$10.53,Standard,Agent D,TRK753218625,Leave at front door,Not Returned
+P0008,John Doe,Oliver Gray,666 Cedar St,321 Oak Ave,2024-11-09,2024-11-05,Returned,5.6,50x22x21,$6.81,Express,Agent C,TRK458295748,Fragile,Not Returned
+P0009,Nancy Red,Chris White,777 Willow Rd,102 Birch Dr,2024-11-03,2024-11-07,Returned,7.3,20x20x22,$9.4,Standard,Agent E,TRK325744928,Leave at front door,Not Returned
+P0010,Nancy Red,Jane Smith,777 Willow Rd,102 Birch Dr,2024-11-01,2024-11-10,Pending,5.6,50x40x30,$6.5,Express,Agent B,TRK686709697,Handle with care,Not Returned
+P0011,John Doe,Mike Green,666 Cedar St,321 Oak Ave,2024-11-09,2024-11-07,Pending,8.7,46x20x26,$6.35,Standard,Agent B,TRK643800257,Do not bend,Not Returned
+P0012,John Doe,Jane Smith,123 Main St,321 Oak Ave,2024-11-09,2024-11-03,Returned,4.0,42x17x23,$6.88,Express,Agent B,TRK344071149,Do not bend,Returned
+P0013,Lucy Blue,Chris White,777 Willow Rd,456 Elm St,2024-11-04,2024-11-06,Pending,1.5,42x22x19,$9.85,Express,Agent C,TRK167430324,N/A,Not Returned
+P0014,Emma Black,Chris White,666 Cedar St,321 Oak Ave,2024-11-06,2024-11-05,Delivered,6.4,47x25x16,$14.55,Express,Agent C,TRK113027892,N/A,Not Returned
+P0015,John Doe,Chris White,789 Pine Rd,102 Birch Dr,2024-11-04,2024-11-13,Returned,1.9,49x15x14,$16.45,Express,Agent E,TRK580945771,Do not bend,Returned
+P0016,Alice White,Chris White,789 Pine Rd,102 Birch Dr,2024-11-08,2024-11-15,Pending,3.4,29x40x13,$18.61,Standard,Agent D,TRK555730855,Leave at front door,Returned
+P0017,Nancy Red,Jane Smith,666 Cedar St,102 Birch Dr,2024-11-06,2024-11-09,Delivered,1.5,23x28x18,$12.94,Standard,Agent C,TRK576262286,Handle with care,Not Returned
+P0018,Emma Black,Chris White,666 Cedar St,999 Chestnut Ave,2024-11-01,2024-11-04,Delivered,2.4,49x28x26,$13.69,Express,Agent C,TRK357008510,Handle with care,Returned
+P0019,John Doe,Mike Green,777 Willow Rd,789 Spruce Blvd,2024-11-07,2024-11-15,In Transit,2.1,39x29x29,$5.48,Express,Agent A,TRK704408101,Leave at front door,Returned
+P0020,Nancy Red,Chris White,777 Willow Rd,999 Chestnut Ave,2024-11-07,2024-11-06,In Transit,4.8,47x30x27,$6.46,Standard,Agent D,TRK552053817,Do not bend,Not Returned
