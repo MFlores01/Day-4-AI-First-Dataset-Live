@@ -1,0 +1,21 @@
+Student ID,Name,Age,Gender,Grade,Course ID,Enrollment Date,Status
+S0001,Benjamin Young,24,Male,Junior,C103,2024-08-17,Withdrawn
+S0002,Sarah Miller,19,Female,Sophomore,C102,2024-09-11,Enrolled
+S0003,James Thompson,25,Female,Sophomore,C105,2024-09-05,Waitlisted
+S0004,David Wilson,20,Female,Senior,C104,2024-09-08,Withdrawn
+S0005,Isabella Hall,23,Male,Freshman,C104,2024-08-24,Waitlisted
+S0006,Benjamin Young,22,Female,Sophomore,C104,2024-08-22,Withdrawn
+S0007,Daniel Moore,19,Male,Sophomore,C105,2024-09-05,Enrolled
+S0008,Mia Lewis,21,Male,Freshman,C102,2024-09-12,Waitlisted
+S0009,Alice Johnson,20,Male,Senior,C101,2024-08-25,Waitlisted
+S0010,Sophia Martinez,24,Male,Freshman,C102,2024-08-21,Enrolled
+S0011,Samuel Clark,19,Female,Sophomore,C103,2024-09-08,Waitlisted
+S0012,Benjamin Young,19,Male,Freshman,C103,2024-09-05,Waitlisted
+S0013,Christopher Lee,18,Male,Freshman,C102,2024-08-16,Withdrawn
+S0014,James Thompson,20,Female,Freshman,C101,2024-09-13,Waitlisted
+S0015,Laura Anderson,19,Male,Junior,C103,2024-08-26,Enrolled
+S0016,Alice Johnson,22,Female,Junior,C103,2024-08-21,Enrolled
+S0017,Christopher Lee,21,Male,Freshman,C105,2024-08-15,Enrolled
+S0018,Charlotte King,20,Female,Junior,C104,2024-08-29,Enrolled
+S0019,Olivia Harris,18,Female,Sophomore,C105,2024-09-04,Withdrawn
+S0020,Grace Robinson,18,Female,Freshman,C103,2024-09-13,Waitlisted
