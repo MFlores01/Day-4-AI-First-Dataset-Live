@@ -1,0 +1,21 @@
+Transaction ID,Account ID,Date,Type,Amount,Balance,Description,Merchant Name,Location,Category,Payment Method,Status
+T0001,A1009,2024-03-11,Debit,1099.6,4026.58,Purchase,Target,Los Angeles,Dining,Debit Card,Failed
+T0002,A2932,2024-05-19,Credit,1601.29,3540.02,Transfer,Amazon,Houston,Utilities,Debit Card,Pending
+T0003,A3623,2024-09-28,Credit,370.64,2536.13,Deposit,Best Buy,New York,Travel,Cash,Completed
+T0004,A5588,2024-09-08,Debit,1379.0,4954.35,Withdrawal,Netflix,Phoenix,Utilities,Debit Card,Pending
+T0005,A2004,2024-06-23,Debit,918.61,4152.19,Payment,Amazon,Miami,Travel,Credit Card,Pending
+T0006,A9020,2024-04-29,Debit,1526.07,2076.86,Payment,Best Buy,Houston,Travel,Cash,Completed
+T0007,A9229,2024-08-16,Debit,651.95,2633.77,Deposit,Netflix,Houston,Retail,Debit Card,Failed
+T0008,A2594,2024-09-26,Credit,1909.73,3647.42,Payment,Walmart,Los Angeles,Retail,Debit Card,Failed
+T0009,A2666,2024-10-08,Credit,1695.97,4739.73,Payment,Walmart,New York,Groceries,Debit Card,Pending
+T0010,A4798,2024-05-30,Debit,1890.24,2974.58,Withdrawal,Target,Phoenix,Groceries,Debit Card,Failed
+T0011,A7740,2024-09-19,Credit,1164.09,2735.74,Purchase,Best Buy,Phoenix,Travel,Debit Card,Failed
+T0012,A9509,2024-04-13,Credit,992.54,3195.35,Payment,Walmart,New York,Utilities,Bank Transfer,Pending
+T0013,A8289,2024-07-30,Debit,856.69,1256.16,Transfer,Amazon,Phoenix,Utilities,Credit Card,Completed
+T0014,A5006,2024-08-08,Credit,627.54,3836.79,Purchase,Target,New York,Retail,Credit Card,Pending
+T0015,A1495,2024-06-26,Debit,1580.82,3241.57,Payment,Best Buy,New York,Retail,Debit Card,Pending
+T0016,A9436,2024-03-15,Credit,318.05,4067.47,Transfer,Amazon,New York,Entertainment,Credit Card,Failed
+T0017,A4437,2024-05-08,Credit,1617.94,4614.28,Purchase,Starbucks,New York,Retail,Debit Card,Failed
+T0018,A8692,2024-10-17,Debit,1910.64,2125.15,Payment,Amazon,Phoenix,Travel,Cash,Completed
+T0019,A9245,2024-09-10,Debit,833.15,2499.46,Transfer,Amazon,Chicago,Dining,Debit Card,Pending
+T0020,A4116,2024-05-22,Debit,1077.95,2852.19,Withdrawal,Target,Chicago,Utilities,Bank Transfer,Pending
