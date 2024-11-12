@@ -1,0 +1,21 @@
+Item_ID,Item_Name,Item_Size,Item_Weight_kg,Demand_Frequency,Current_Location,Distance_From_Dispatch,Storage_Type,Current_Storage_Capacity,Optimized_Storage_Capacity,Handling_Equipment,Handling_Time_per_Zone,Turnover_Rate,Seasonal_Demand,Batching_Strategy,Order_Volume,Item_Types_per_Batch,Handling_Error_Rate,Staff_Training_Level
+WGT-A172,Wireless Earbuds,Medium,5.4,Medium,Zone B,34,Shelf,66.5,84.2,Hand Truck,1.1,Low,Peak,Wave Picking,88,2,2.92,Basic
+GDT-B326,Smartphone Case,Large,1.0,High,Zone C,73,Bin,88.3,85.7,Forklift,4.8,Low,Peak,Batch Picking,42,3,4.12,Advanced
+PRT-C187,USB Cable,Small,2.4,Medium,Zone B,77,Bin,86.1,93.5,Forklift,6.7,Medium,Peak,Wave Picking,80,8,4.55,Intermediate
+TL-D479,Laptop Stand,Medium,0.7,Low,Zone B,61,Bin,83.6,81.3,Conveyor,7.0,High,Peak,Wave Picking,54,3,4.1,Basic
+DV-E074,Portable Charger,Medium,8.0,Medium,Zone B,18,Shelf,69.7,91.1,Pallet Jack,5.2,High,Off-peak,Zone Picking,69,4,0.88,Advanced
+ACC-F321,Bluetooth Speaker,Medium,2.6,Medium,Zone C,66,Shelf,66.1,80.2,Conveyor,6.6,Low,Off-peak,Batch Picking,67,8,3.18,Basic
+CMP-G129,Keyboard,Medium,3.8,High,Zone A,97,Bin,84.7,96.7,Conveyor,2.7,Medium,Off-peak,Zone Picking,60,7,2.05,Advanced
+MOD-H548,Monitor Stand,Medium,9.3,High,Zone D,42,Shelf,76.2,99.7,Conveyor,14.7,Medium,Off-peak,Zone Picking,55,7,0.41,Basic
+ELM-I923,Desk Lamp,Large,7.2,Medium,Zone B,29,Bin,89.4,94.1,Hand Truck,6.7,High,Off-peak,Zone Picking,14,3,2.18,Advanced
+GR-J201,Wireless Mouse,Large,0.8,Medium,Zone A,82,Rack,67.2,83.6,Hand Truck,9.0,High,Off-peak,Wave Picking,67,4,1.37,Advanced
+APP-K754,Smart Thermostat,Large,2.1,Low,Zone D,81,Bin,65.8,90.2,Conveyor,5.8,Low,Off-peak,Wave Picking,27,7,4.26,Basic
+MCH-L674,Gaming Console,Small,6.4,Medium,Zone B,97,Rack,64.4,91.6,Conveyor,12.0,High,Off-peak,Batch Picking,45,1,0.26,Basic
+INS-M510,Tablet Stand,Medium,6.0,Low,Zone B,23,Rack,85.3,95.8,Hand Truck,6.8,Medium,Peak,Wave Picking,76,9,4.8,Advanced
+FXT-N288,Portable SSD,Large,2.8,Low,Zone C,68,Shelf,61.1,92.1,Conveyor,6.0,Low,Peak,Wave Picking,30,1,1.84,Intermediate
+UNT-O485,Fitness Tracker,Medium,9.4,Medium,Zone A,91,Pallet,86.1,84.4,Hand Truck,6.6,Low,Peak,Batch Picking,55,8,1.85,Intermediate
+ASM-P097,Smart Watch,Medium,6.3,Low,Zone C,65,Pallet,63.2,89.1,Hand Truck,5.2,Medium,Peak,Zone Picking,67,7,0.18,Intermediate
+PRD-Q184,Noise Cancelling Headphones,Medium,5.6,Low,Zone D,74,Pallet,67.6,97.6,Forklift,11.9,High,Off-peak,Batch Picking,89,6,1.01,Intermediate
+ELM-R293,Webcam,Medium,6.1,High,Zone A,85,Shelf,86.2,89.8,Forklift,14.0,High,Off-peak,Batch Picking,46,7,2.07,Basic
+MCH-S612,Smart Home Hub,Small,7.4,Medium,Zone C,46,Shelf,85.6,94.3,Hand Truck,5.6,Medium,Off-peak,Wave Picking,72,6,4.65,Advanced
+CTR-T458,VR Headset,Large,3.5,Medium,Zone A,35,Rack,61.6,89.7,Conveyor,14.3,High,Off-peak,Batch Picking,14,3,0.59,Intermediate
